@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xAc4637A8817cdfD718d633Af87CA26ed437ED1e9",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xac4637a8817cdfd718d633af87ca26ed437ed1e9",
+  "NETWORK": {
+    "NAME": "Mumbai",
+    "SYMBOL": "Matic",
+    "ID": 80001
+  },
+  "NFT_NAME": "Amazing Gen",
+  "SYMBOL": "AMG",
+  "MAX_SUPPLY": 10,
+  "WEI_COST": 2000000000000000,
+  "DISPLAY_COST": 0.002,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/amazing-gen-v2",
+  "SHOW_BACKGROUND": true
+}
